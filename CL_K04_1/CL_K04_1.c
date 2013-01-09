@@ -1,5 +1,5 @@
-/*1T1_31_O‹´˜al*/
-/*‰Û‘è04_1*/
+/*1T1_31_Kazuto Mituhashi*/
+/*kadai04_1*/
 #include <stdio.h>
 //
 void main(void){
